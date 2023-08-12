@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Firebase NoteBook</string>
+    <string name="notes_app_title">Notes</string>
+    <string name="note_title">Note Title</string>
+    <string name="note_description">Note Description</string>
+    <string name="add_note_button">Add Note</string>
+</resources>
